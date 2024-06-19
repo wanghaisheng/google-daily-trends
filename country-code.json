@@ -1,0 +1,2872 @@
+{
+    "api_status": {
+        "request": {
+            "item": "not specified"
+        },
+        "reply": {
+            "cache": "cached",
+            "code": 200,
+            "status": "ok",
+            "note": "The api works, we could fetch countries.",
+            "count": 238
+        }
+    },
+    "data": {
+        "AD": {
+            "iso_alpha2": "AD",
+            "name": "Andorra",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Andorra has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Andorra.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/andorra"
+            }
+        },
+        "AE": {
+            "iso_alpha2": "AE",
+            "name": "United Arab Emirates",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "United Arab Emirates has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling United Arab Emirates.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/united-arab-emirates"
+            }
+        },
+        "AF": {
+            "iso_alpha2": "AF",
+            "name": "Afghanistan",
+            "continent": "AS",
+            "advisory": {
+                "score": 5,
+                "sources_active": 9,
+                "message": "Afghanistan has a current risk level of 5 (out of 5). We advise: It is not safe to travel Afghanistan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/afghanistan"
+            }
+        },
+        "AG": {
+            "iso_alpha2": "AG",
+            "name": "Antigua and Barbuda",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Antigua and Barbuda has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Antigua and Barbuda.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/antigua-and-barbuda"
+            }
+        },
+        "AI": {
+            "iso_alpha2": "AI",
+            "name": "Anguilla",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Anguilla has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Anguilla.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/anguilla"
+            }
+        },
+        "AL": {
+            "iso_alpha2": "AL",
+            "name": "Albania",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.600000000000000088817841970012523233890533447265625,
+                "sources_active": 5,
+                "message": "Albania has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Albania.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/albania"
+            }
+        },
+        "AM": {
+            "iso_alpha2": "AM",
+            "name": "Armenia",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Armenia has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Armenia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/armenia"
+            }
+        },
+        "AO": {
+            "iso_alpha2": "AO",
+            "name": "Angola",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Angola has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Angola.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/angola"
+            }
+        },
+        "AR": {
+            "iso_alpha2": "AR",
+            "name": "Argentina",
+            "continent": "SA",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Argentina has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Argentina.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/argentina"
+            }
+        },
+        "AS": {
+            "iso_alpha2": "AS",
+            "name": "American Samoa",
+            "continent": "OC",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "American Samoa has a current risk level of 0 (out of 5). We advise: Travelling American Samoa is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/american-samoa"
+            }
+        },
+        "AT": {
+            "iso_alpha2": "AT",
+            "name": "Austria",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Austria has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Austria.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/austria"
+            }
+        },
+        "AU": {
+            "iso_alpha2": "AU",
+            "name": "Australia",
+            "continent": "OC",
+            "advisory": {
+                "score": 2.29999999999999982236431605997495353221893310546875,
+                "sources_active": 4,
+                "message": "Australia has a current risk level of 2.3 (out of 5). We advise: Travelling Australia is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/australia"
+            }
+        },
+        "AW": {
+            "iso_alpha2": "AW",
+            "name": "Aruba",
+            "continent": "NA",
+            "advisory": {
+                "score": 1,
+                "sources_active": 1,
+                "message": "Aruba has a current risk level of 1 (out of 5). We advise: Travelling Aruba is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/aruba"
+            }
+        },
+        "AZ": {
+            "iso_alpha2": "AZ",
+            "name": "Azerbaijan",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 7,
+                "message": "Azerbaijan has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Azerbaijan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/azerbaijan"
+            }
+        },
+        "BA": {
+            "iso_alpha2": "BA",
+            "name": "Bosnia and Herzegovina",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 6,
+                "message": "Bosnia and Herzegovina has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Bosnia and Herzegovina.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/bosnia-and-herzegovina"
+            }
+        },
+        "BB": {
+            "iso_alpha2": "BB",
+            "name": "Barbados",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Barbados has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Barbados.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/barbados"
+            }
+        },
+        "BD": {
+            "iso_alpha2": "BD",
+            "name": "Bangladesh",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 7,
+                "message": "Bangladesh has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Bangladesh.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/bangladesh"
+            }
+        },
+        "BE": {
+            "iso_alpha2": "BE",
+            "name": "Belgium",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 7,
+                "message": "Belgium has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Belgium.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/belgium"
+            }
+        },
+        "BF": {
+            "iso_alpha2": "BF",
+            "name": "Burkina Faso",
+            "continent": "AF",
+            "advisory": {
+                "score": 4.0999999999999996447286321199499070644378662109375,
+                "sources_active": 7,
+                "message": "Burkina Faso has a current risk level of 4.1 (out of 5). We advise: Please reconsider your need to travel to Burkina Faso.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/burkina-faso"
+            }
+        },
+        "BG": {
+            "iso_alpha2": "BG",
+            "name": "Bulgaria",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Bulgaria has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Bulgaria.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/bulgaria"
+            }
+        },
+        "BH": {
+            "iso_alpha2": "BH",
+            "name": "Bahrain",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 6,
+                "message": "Bahrain has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Bahrain.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/bahrain"
+            }
+        },
+        "BI": {
+            "iso_alpha2": "BI",
+            "name": "Burundi",
+            "continent": "AF",
+            "advisory": {
+                "score": 4,
+                "sources_active": 5,
+                "message": "Burundi has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Burundi.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/burundi"
+            }
+        },
+        "BJ": {
+            "iso_alpha2": "BJ",
+            "name": "Benin",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 4,
+                "message": "Benin has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Benin.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/benin"
+            }
+        },
+        "BL": {
+            "iso_alpha2": "BL",
+            "name": "Saint Barth\u00e9lemy",
+            "continent": "NA",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Saint Barth\u00e9lemy has a current risk level of 0 (out of 5). We advise: Travelling Saint Barth\u00e9lemy is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/saint-barthelemy"
+            }
+        },
+        "BM": {
+            "iso_alpha2": "BM",
+            "name": "Bermuda",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Bermuda has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Bermuda.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/bermuda"
+            }
+        },
+        "BN": {
+            "iso_alpha2": "BN",
+            "name": "Brunei",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Brunei has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Brunei.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/brunei"
+            }
+        },
+        "BO": {
+            "iso_alpha2": "BO",
+            "name": "Bolivia",
+            "continent": "SA",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 5,
+                "message": "Bolivia has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Bolivia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/bolivia"
+            }
+        },
+        "BR": {
+            "iso_alpha2": "BR",
+            "name": "Brazil",
+            "continent": "SA",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 8,
+                "message": "Brazil has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Brazil.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/brazil"
+            }
+        },
+        "BS": {
+            "iso_alpha2": "BS",
+            "name": "Bahamas",
+            "continent": "NA",
+            "advisory": {
+                "score": 3,
+                "sources_active": 3,
+                "message": "Bahamas has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Bahamas.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/bahamas"
+            }
+        },
+        "BT": {
+            "iso_alpha2": "BT",
+            "name": "Bhutan",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Bhutan has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Bhutan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/bhutan"
+            }
+        },
+        "BW": {
+            "iso_alpha2": "BW",
+            "name": "Botswana",
+            "continent": "AF",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 4,
+                "message": "Botswana has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Botswana.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/botswana"
+            }
+        },
+        "BY": {
+            "iso_alpha2": "BY",
+            "name": "Belarus",
+            "continent": "EU",
+            "advisory": {
+                "score": 4.9000000000000003552713678800500929355621337890625,
+                "sources_active": 7,
+                "message": "Belarus has a current risk level of 4.9 (out of 5). We advise: It is not safe to travel Belarus.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/belarus"
+            }
+        },
+        "BZ": {
+            "iso_alpha2": "BZ",
+            "name": "Belize",
+            "continent": "NA",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Belize has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Belize.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/belize"
+            }
+        },
+        "CA": {
+            "iso_alpha2": "CA",
+            "name": "Canada",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Canada has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Canada.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/canada"
+            }
+        },
+        "CC": {
+            "iso_alpha2": "CC",
+            "name": "Cocos Islands",
+            "continent": "SA",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Cocos Islands has a current risk level of 0 (out of 5). We advise: Travelling Cocos Islands is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/cocos-islands"
+            }
+        },
+        "CD": {
+            "iso_alpha2": "CD",
+            "name": "Democratic Republic of the Congo",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.70000000000000017763568394002504646778106689453125,
+                "sources_active": 7,
+                "message": "Democratic Republic of the Congo has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Democratic Republic of the Congo.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/democratic-republic-of-the-congo"
+            }
+        },
+        "CF": {
+            "iso_alpha2": "CF",
+            "name": "Central African Republic",
+            "continent": "AF",
+            "advisory": {
+                "score": 5,
+                "sources_active": 7,
+                "message": "Central African Republic has a current risk level of 5 (out of 5). We advise: It is not safe to travel Central African Republic.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/central-african-republic"
+            }
+        },
+        "CG": {
+            "iso_alpha2": "CG",
+            "name": "Republic of the Congo",
+            "continent": "AF",
+            "advisory": {
+                "score": 2.70000000000000017763568394002504646778106689453125,
+                "sources_active": 3,
+                "message": "Republic of the Congo has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Republic of the Congo.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/republic-of-the-congo"
+            }
+        },
+        "CH": {
+            "iso_alpha2": "CH",
+            "name": "Switzerland",
+            "continent": "EU",
+            "advisory": {
+                "score": 4,
+                "sources_active": 4,
+                "message": "Switzerland has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Switzerland.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/switzerland"
+            }
+        },
+        "CI": {
+            "iso_alpha2": "CI",
+            "name": "Ivory Coast",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Ivory Coast has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Ivory Coast.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/ivory-coast"
+            }
+        },
+        "CK": {
+            "iso_alpha2": "CK",
+            "name": "Cook Islands",
+            "continent": "OC",
+            "advisory": {
+                "score": 5,
+                "sources_active": 1,
+                "message": "Cook Islands has a current risk level of 5 (out of 5). We advise: It is not safe to travel Cook Islands.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/cook-islands"
+            }
+        },
+        "CL": {
+            "iso_alpha2": "CL",
+            "name": "Chile",
+            "continent": "SA",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 7,
+                "message": "Chile has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Chile.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/chile"
+            }
+        },
+        "CM": {
+            "iso_alpha2": "CM",
+            "name": "Cameroon",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Cameroon has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Cameroon.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/cameroon"
+            }
+        },
+        "CN": {
+            "iso_alpha2": "CN",
+            "name": "China",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 8,
+                "message": "China has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling China.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/china"
+            }
+        },
+        "CO": {
+            "iso_alpha2": "CO",
+            "name": "Colombia",
+            "continent": "SA",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Colombia has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Colombia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/colombia"
+            }
+        },
+        "CR": {
+            "iso_alpha2": "CR",
+            "name": "Costa Rica",
+            "continent": "NA",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Costa Rica has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Costa Rica.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/costa-rica"
+            }
+        },
+        "CU": {
+            "iso_alpha2": "CU",
+            "name": "Cuba",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Cuba has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Cuba.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/cuba"
+            }
+        },
+        "CV": {
+            "iso_alpha2": "CV",
+            "name": "Cape Verde",
+            "continent": "AF",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 4,
+                "message": "Cape Verde has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Cape Verde.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/cape-verde"
+            }
+        },
+        "CX": {
+            "iso_alpha2": "CX",
+            "name": "Christmas Island",
+            "continent": "OC",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Christmas Island has a current risk level of 0 (out of 5). We advise: Travelling Christmas Island is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/christmas-island"
+            }
+        },
+        "CY": {
+            "iso_alpha2": "CY",
+            "name": "Cyprus",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Cyprus has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Cyprus.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/cyprus"
+            }
+        },
+        "CZ": {
+            "iso_alpha2": "CZ",
+            "name": "Czech Republic",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Czech Republic has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Czech Republic.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/czech-republic"
+            }
+        },
+        "DE": {
+            "iso_alpha2": "DE",
+            "name": "Germany",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 7,
+                "message": "Germany has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Germany.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/germany"
+            }
+        },
+        "DJ": {
+            "iso_alpha2": "DJ",
+            "name": "Djibouti",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 5,
+                "message": "Djibouti has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Djibouti.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/djibouti"
+            }
+        },
+        "DK": {
+            "iso_alpha2": "DK",
+            "name": "Denmark",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 5,
+                "message": "Denmark has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Denmark.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/denmark"
+            }
+        },
+        "DM": {
+            "iso_alpha2": "DM",
+            "name": "Dominica",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Dominica has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Dominica.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/dominica"
+            }
+        },
+        "DO": {
+            "iso_alpha2": "DO",
+            "name": "Dominican Republic",
+            "continent": "NA",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Dominican Republic has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Dominican Republic.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/dominican-republic"
+            }
+        },
+        "DZ": {
+            "iso_alpha2": "DZ",
+            "name": "Algeria",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 9,
+                "message": "Algeria has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Algeria.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/algeria"
+            }
+        },
+        "EC": {
+            "iso_alpha2": "EC",
+            "name": "Ecuador",
+            "continent": "SA",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Ecuador has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Ecuador.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/ecuador"
+            }
+        },
+        "EE": {
+            "iso_alpha2": "EE",
+            "name": "Estonia",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.600000000000000088817841970012523233890533447265625,
+                "sources_active": 5,
+                "message": "Estonia has a current risk level of 2.6 (out of 5). We advise: Use some caution when travelling Estonia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/estonia"
+            }
+        },
+        "EG": {
+            "iso_alpha2": "EG",
+            "name": "Egypt",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 9,
+                "message": "Egypt has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Egypt.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/egypt"
+            }
+        },
+        "EH": {
+            "iso_alpha2": "EH",
+            "name": "Western Sahara",
+            "continent": "AF",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Western Sahara has a current risk level of 0 (out of 5). We advise: Travelling Western Sahara is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/western-sahara"
+            }
+        },
+        "ER": {
+            "iso_alpha2": "ER",
+            "name": "Eritrea",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Eritrea has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Eritrea.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/eritrea"
+            }
+        },
+        "ES": {
+            "iso_alpha2": "ES",
+            "name": "Spain",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 7,
+                "message": "Spain has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Spain.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/spain"
+            }
+        },
+        "ET": {
+            "iso_alpha2": "ET",
+            "name": "Ethiopia",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 8,
+                "message": "Ethiopia has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Ethiopia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/ethiopia"
+            }
+        },
+        "FI": {
+            "iso_alpha2": "FI",
+            "name": "Finland",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Finland has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Finland.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/finland"
+            }
+        },
+        "FJ": {
+            "iso_alpha2": "FJ",
+            "name": "Fiji",
+            "continent": "OC",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Fiji has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Fiji.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/fiji"
+            }
+        },
+        "FK": {
+            "iso_alpha2": "FK",
+            "name": "Falkland Islands",
+            "continent": "SA",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Falkland Islands has a current risk level of 0 (out of 5). We advise: Travelling Falkland Islands is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/falkland-islands"
+            }
+        },
+        "FM": {
+            "iso_alpha2": "FM",
+            "name": "Micronesia",
+            "continent": "OC",
+            "advisory": {
+                "score": 1,
+                "sources_active": 1,
+                "message": "Micronesia has a current risk level of 1 (out of 5). We advise: Travelling Micronesia is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/micronesia"
+            }
+        },
+        "FO": {
+            "iso_alpha2": "FO",
+            "name": "Faroe Islands",
+            "continent": "EU",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Faroe Islands has a current risk level of 0 (out of 5). We advise: Travelling Faroe Islands is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/faroe-islands"
+            }
+        },
+        "FR": {
+            "iso_alpha2": "FR",
+            "name": "France",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 7,
+                "message": "France has a current risk level of 3 (out of 5). We advise: Use some caution when travelling France.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/france"
+            }
+        },
+        "GA": {
+            "iso_alpha2": "GA",
+            "name": "Gabon",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 4,
+                "message": "Gabon has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Gabon.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/gabon"
+            }
+        },
+        "GB": {
+            "iso_alpha2": "GB",
+            "name": "United Kingdom",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 7,
+                "message": "United Kingdom has a current risk level of 3 (out of 5). We advise: Use some caution when travelling United Kingdom.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/united-kingdom"
+            }
+        },
+        "GD": {
+            "iso_alpha2": "GD",
+            "name": "Grenada",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Grenada has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Grenada.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/grenada"
+            }
+        },
+        "GE": {
+            "iso_alpha2": "GE",
+            "name": "Georgia",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Georgia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Georgia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/georgia"
+            }
+        },
+        "GF": {
+            "iso_alpha2": "GF",
+            "name": "French Guiana",
+            "continent": "SA",
+            "advisory": {
+                "score": 4,
+                "sources_active": 1,
+                "message": "French Guiana has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to French Guiana.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/french-guiana"
+            }
+        },
+        "GG": {
+            "iso_alpha2": "GG",
+            "name": "Guernsey",
+            "continent": "EU",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Guernsey has a current risk level of 0 (out of 5). We advise: Travelling Guernsey is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/guernsey"
+            }
+        },
+        "GH": {
+            "iso_alpha2": "GH",
+            "name": "Ghana",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 5,
+                "message": "Ghana has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Ghana.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/ghana"
+            }
+        },
+        "GI": {
+            "iso_alpha2": "GI",
+            "name": "Gibraltar",
+            "continent": "EU",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Gibraltar has a current risk level of 0 (out of 5). We advise: Travelling Gibraltar is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/gibraltar"
+            }
+        },
+        "GL": {
+            "iso_alpha2": "GL",
+            "name": "Greenland",
+            "continent": "NA",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Greenland has a current risk level of 0 (out of 5). We advise: Travelling Greenland is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/greenland"
+            }
+        },
+        "GM": {
+            "iso_alpha2": "GM",
+            "name": "Gambia",
+            "continent": "AF",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 4,
+                "message": "Gambia has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Gambia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/gambia"
+            }
+        },
+        "GN": {
+            "iso_alpha2": "GN",
+            "name": "Guinea",
+            "continent": "AF",
+            "advisory": {
+                "score": 4,
+                "sources_active": 4,
+                "message": "Guinea has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Guinea.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/guinea"
+            }
+        },
+        "GP": {
+            "iso_alpha2": "GP",
+            "name": "Guadeloupe",
+            "continent": "NA",
+            "advisory": {
+                "score": 4,
+                "sources_active": 1,
+                "message": "Guadeloupe has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Guadeloupe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/guadeloupe"
+            }
+        },
+        "GQ": {
+            "iso_alpha2": "GQ",
+            "name": "Equatorial Guinea",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 3,
+                "message": "Equatorial Guinea has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Equatorial Guinea.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/equatorial-guinea"
+            }
+        },
+        "GR": {
+            "iso_alpha2": "GR",
+            "name": "Greece",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Greece has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Greece.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/greece"
+            }
+        },
+        "GS": {
+            "iso_alpha2": "GS",
+            "name": "South Georgia and the South Sandwich Islands",
+            "continent": "AN",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "South Georgia and the South Sandwich Islands has a current risk level of 0 (out of 5). We advise: Travelling South Georgia and the South Sandwich Islands is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/south-georgia-and-the-south-sandwich-islands"
+            }
+        },
+        "GT": {
+            "iso_alpha2": "GT",
+            "name": "Guatemala",
+            "continent": "NA",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 5,
+                "message": "Guatemala has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Guatemala.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/guatemala"
+            }
+        },
+        "GU": {
+            "iso_alpha2": "GU",
+            "name": "Guam",
+            "continent": "OC",
+            "advisory": {
+                "score": 4,
+                "sources_active": 1,
+                "message": "Guam has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Guam.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/guam"
+            }
+        },
+        "GW": {
+            "iso_alpha2": "GW",
+            "name": "Guinea-Bissau",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 2,
+                "message": "Guinea-Bissau has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Guinea-Bissau.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/guinea-bissau"
+            }
+        },
+        "GY": {
+            "iso_alpha2": "GY",
+            "name": "Guyana",
+            "continent": "SA",
+            "advisory": {
+                "score": 4,
+                "sources_active": 4,
+                "message": "Guyana has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Guyana.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/guyana"
+            }
+        },
+        "HK": {
+            "iso_alpha2": "HK",
+            "name": "Hong Kong",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.600000000000000088817841970012523233890533447265625,
+                "sources_active": 5,
+                "message": "Hong Kong has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Hong Kong.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/hong-kong"
+            }
+        },
+        "HN": {
+            "iso_alpha2": "HN",
+            "name": "Honduras",
+            "continent": "NA",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 5,
+                "message": "Honduras has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Honduras.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/honduras"
+            }
+        },
+        "HR": {
+            "iso_alpha2": "HR",
+            "name": "Croatia",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Croatia has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Croatia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/croatia"
+            }
+        },
+        "HT": {
+            "iso_alpha2": "HT",
+            "name": "Haiti",
+            "continent": "NA",
+            "advisory": {
+                "score": 4.79999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Haiti has a current risk level of 4.8 (out of 5). We advise: It is not safe to travel Haiti.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/haiti"
+            }
+        },
+        "HU": {
+            "iso_alpha2": "HU",
+            "name": "Hungary",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Hungary has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Hungary.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/hungary"
+            }
+        },
+        "ID": {
+            "iso_alpha2": "ID",
+            "name": "Indonesia",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 7,
+                "message": "Indonesia has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Indonesia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/indonesia"
+            }
+        },
+        "IE": {
+            "iso_alpha2": "IE",
+            "name": "Ireland",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 4,
+                "message": "Ireland has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Ireland.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/ireland"
+            }
+        },
+        "IL": {
+            "iso_alpha2": "IL",
+            "name": "Israel",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.899999999999999911182158029987476766109466552734375,
+                "sources_active": 7,
+                "message": "Israel has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Israel.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/israel"
+            }
+        },
+        "IM": {
+            "iso_alpha2": "IM",
+            "name": "Isle of Man",
+            "continent": "EU",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Isle of Man has a current risk level of 0 (out of 5). We advise: Travelling Isle of Man is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/isle-of-man"
+            }
+        },
+        "IN": {
+            "iso_alpha2": "IN",
+            "name": "India",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 7,
+                "message": "India has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling India.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/india"
+            }
+        },
+        "IQ": {
+            "iso_alpha2": "IQ",
+            "name": "Iraq",
+            "continent": "AS",
+            "advisory": {
+                "score": 4.79999999999999982236431605997495353221893310546875,
+                "sources_active": 8,
+                "message": "Iraq has a current risk level of 4.8 (out of 5). We advise: It is not safe to travel Iraq.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/iraq"
+            }
+        },
+        "IR": {
+            "iso_alpha2": "IR",
+            "name": "Iran",
+            "continent": "AS",
+            "advisory": {
+                "score": 4.5,
+                "sources_active": 6,
+                "message": "Iran has a current risk level of 4.5 (out of 5). We advise: It is not safe to travel Iran.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/iran"
+            }
+        },
+        "IS": {
+            "iso_alpha2": "IS",
+            "name": "Iceland",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Iceland has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Iceland.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/iceland"
+            }
+        },
+        "IT": {
+            "iso_alpha2": "IT",
+            "name": "Italy",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 7,
+                "message": "Italy has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Italy.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/italy"
+            }
+        },
+        "JE": {
+            "iso_alpha2": "JE",
+            "name": "Jersey",
+            "continent": "EU",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Jersey has a current risk level of 0 (out of 5). We advise: Travelling Jersey is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/jersey"
+            }
+        },
+        "JM": {
+            "iso_alpha2": "JM",
+            "name": "Jamaica",
+            "continent": "NA",
+            "advisory": {
+                "score": 3.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Jamaica has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Jamaica.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/jamaica"
+            }
+        },
+        "JO": {
+            "iso_alpha2": "JO",
+            "name": "Jordan",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Jordan has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Jordan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/jordan"
+            }
+        },
+        "JP": {
+            "iso_alpha2": "JP",
+            "name": "Japan",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Japan has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Japan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/japan"
+            }
+        },
+        "KE": {
+            "iso_alpha2": "KE",
+            "name": "Kenya",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.100000000000000088817841970012523233890533447265625,
+                "sources_active": 8,
+                "message": "Kenya has a current risk level of 3.1 (out of 5). We advise: Use some caution when travelling Kenya.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/kenya"
+            }
+        },
+        "KG": {
+            "iso_alpha2": "KG",
+            "name": "Kyrgyzstan",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.29999999999999982236431605997495353221893310546875,
+                "sources_active": 4,
+                "message": "Kyrgyzstan has a current risk level of 2.3 (out of 5). We advise: Travelling Kyrgyzstan is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/kyrgyzstan"
+            }
+        },
+        "KH": {
+            "iso_alpha2": "KH",
+            "name": "Cambodia",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 6,
+                "message": "Cambodia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Cambodia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/cambodia"
+            }
+        },
+        "KI": {
+            "iso_alpha2": "KI",
+            "name": "Kiribati",
+            "continent": "OC",
+            "advisory": {
+                "score": 1,
+                "sources_active": 1,
+                "message": "Kiribati has a current risk level of 1 (out of 5). We advise: Travelling Kiribati is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/kiribati"
+            }
+        },
+        "KM": {
+            "iso_alpha2": "KM",
+            "name": "Comoros",
+            "continent": "AF",
+            "advisory": {
+                "score": 2.70000000000000017763568394002504646778106689453125,
+                "sources_active": 3,
+                "message": "Comoros has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Comoros.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/comoros"
+            }
+        },
+        "KN": {
+            "iso_alpha2": "KN",
+            "name": "Saint Kitts and Nevis",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Saint Kitts and Nevis has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Saint Kitts and Nevis.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/saint-kitts-and-nevis"
+            }
+        },
+        "KP": {
+            "iso_alpha2": "KP",
+            "name": "North Korea",
+            "continent": "AS",
+            "advisory": {
+                "score": 4.4000000000000003552713678800500929355621337890625,
+                "sources_active": 5,
+                "message": "North Korea has a current risk level of 4.4 (out of 5). We advise: Please reconsider your need to travel to North Korea.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/north-korea"
+            }
+        },
+        "KR": {
+            "iso_alpha2": "KR",
+            "name": "South Korea",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.29999999999999982236431605997495353221893310546875,
+                "sources_active": 4,
+                "message": "South Korea has a current risk level of 2.3 (out of 5). We advise: Travelling South Korea is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/south-korea"
+            }
+        },
+        "KW": {
+            "iso_alpha2": "KW",
+            "name": "Kuwait",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Kuwait has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Kuwait.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/kuwait"
+            }
+        },
+        "KY": {
+            "iso_alpha2": "KY",
+            "name": "Cayman Islands",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Cayman Islands has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Cayman Islands.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/cayman-islands"
+            }
+        },
+        "KZ": {
+            "iso_alpha2": "KZ",
+            "name": "Kazakhstan",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Kazakhstan has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Kazakhstan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/kazakhstan"
+            }
+        },
+        "LA": {
+            "iso_alpha2": "LA",
+            "name": "Laos",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Laos has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Laos.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/laos"
+            }
+        },
+        "LB": {
+            "iso_alpha2": "LB",
+            "name": "Lebanon",
+            "continent": "AS",
+            "advisory": {
+                "score": 4.20000000000000017763568394002504646778106689453125,
+                "sources_active": 9,
+                "message": "Lebanon has a current risk level of 4.2 (out of 5). We advise: Please reconsider your need to travel to Lebanon.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/lebanon"
+            }
+        },
+        "LC": {
+            "iso_alpha2": "LC",
+            "name": "Saint Lucia",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Saint Lucia has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Saint Lucia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/saint-lucia"
+            }
+        },
+        "LI": {
+            "iso_alpha2": "LI",
+            "name": "Liechtenstein",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.29999999999999982236431605997495353221893310546875,
+                "sources_active": 3,
+                "message": "Liechtenstein has a current risk level of 2.3 (out of 5). We advise: Travelling Liechtenstein is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/liechtenstein"
+            }
+        },
+        "LK": {
+            "iso_alpha2": "LK",
+            "name": "Sri Lanka",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.100000000000000088817841970012523233890533447265625,
+                "sources_active": 7,
+                "message": "Sri Lanka has a current risk level of 3.1 (out of 5). We advise: Use some caution when travelling Sri Lanka.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/sri-lanka"
+            }
+        },
+        "LR": {
+            "iso_alpha2": "LR",
+            "name": "Liberia",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 4,
+                "message": "Liberia has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Liberia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/liberia"
+            }
+        },
+        "LS": {
+            "iso_alpha2": "LS",
+            "name": "Lesotho",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Lesotho has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Lesotho.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/lesotho"
+            }
+        },
+        "LT": {
+            "iso_alpha2": "LT",
+            "name": "Lithuania",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.600000000000000088817841970012523233890533447265625,
+                "sources_active": 5,
+                "message": "Lithuania has a current risk level of 2.6 (out of 5). We advise: Use some caution when travelling Lithuania.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/lithuania"
+            }
+        },
+        "LU": {
+            "iso_alpha2": "LU",
+            "name": "Luxembourg",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.29999999999999982236431605997495353221893310546875,
+                "sources_active": 3,
+                "message": "Luxembourg has a current risk level of 2.3 (out of 5). We advise: Travelling Luxembourg is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/luxembourg"
+            }
+        },
+        "LV": {
+            "iso_alpha2": "LV",
+            "name": "Latvia",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.600000000000000088817841970012523233890533447265625,
+                "sources_active": 5,
+                "message": "Latvia has a current risk level of 2.6 (out of 5). We advise: Use some caution when travelling Latvia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/latvia"
+            }
+        },
+        "LY": {
+            "iso_alpha2": "LY",
+            "name": "Libya",
+            "continent": "AF",
+            "advisory": {
+                "score": 5,
+                "sources_active": 8,
+                "message": "Libya has a current risk level of 5 (out of 5). We advise: It is not safe to travel Libya.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/libya"
+            }
+        },
+        "MA": {
+            "iso_alpha2": "MA",
+            "name": "Morocco",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 7,
+                "message": "Morocco has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Morocco.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/morocco"
+            }
+        },
+        "MC": {
+            "iso_alpha2": "MC",
+            "name": "Monaco",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 2,
+                "message": "Monaco has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Monaco.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/monaco"
+            }
+        },
+        "MD": {
+            "iso_alpha2": "MD",
+            "name": "Moldova",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Moldova has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Moldova.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/moldova"
+            }
+        },
+        "ME": {
+            "iso_alpha2": "ME",
+            "name": "Montenegro",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 5,
+                "message": "Montenegro has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Montenegro.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/montenegro"
+            }
+        },
+        "MF": {
+            "iso_alpha2": "MF",
+            "name": "Saint Martin",
+            "continent": "NA",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Saint Martin has a current risk level of 0 (out of 5). We advise: Travelling Saint Martin is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/saint-martin"
+            }
+        },
+        "MG": {
+            "iso_alpha2": "MG",
+            "name": "Madagascar",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 6,
+                "message": "Madagascar has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Madagascar.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/madagascar"
+            }
+        },
+        "MH": {
+            "iso_alpha2": "MH",
+            "name": "Marshall Islands",
+            "continent": "OC",
+            "advisory": {
+                "score": 3,
+                "sources_active": 2,
+                "message": "Marshall Islands has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Marshall Islands.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/marshall-islands"
+            }
+        },
+        "MK": {
+            "iso_alpha2": "MK",
+            "name": "Macedonia",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.29999999999999982236431605997495353221893310546875,
+                "sources_active": 3,
+                "message": "Macedonia has a current risk level of 2.3 (out of 5). We advise: Travelling Macedonia is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/macedonia"
+            }
+        },
+        "ML": {
+            "iso_alpha2": "ML",
+            "name": "Mali",
+            "continent": "AF",
+            "advisory": {
+                "score": 4.5999999999999996447286321199499070644378662109375,
+                "sources_active": 8,
+                "message": "Mali has a current risk level of 4.6 (out of 5). We advise: It is not safe to travel Mali.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/mali"
+            }
+        },
+        "MM": {
+            "iso_alpha2": "MM",
+            "name": "Myanmar",
+            "continent": "AS",
+            "advisory": {
+                "score": 4.5999999999999996447286321199499070644378662109375,
+                "sources_active": 8,
+                "message": "Myanmar has a current risk level of 4.6 (out of 5). We advise: It is not safe to travel Myanmar.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/myanmar"
+            }
+        },
+        "MN": {
+            "iso_alpha2": "MN",
+            "name": "Mongolia",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 4,
+                "message": "Mongolia has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Mongolia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/mongolia"
+            }
+        },
+        "MO": {
+            "iso_alpha2": "MO",
+            "name": "Macao",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 3,
+                "message": "Macao has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Macao.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/macao"
+            }
+        },
+        "MP": {
+            "iso_alpha2": "MP",
+            "name": "Northern Mariana Islands",
+            "continent": "OC",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Northern Mariana Islands has a current risk level of 0 (out of 5). We advise: Travelling Northern Mariana Islands is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/northern-mariana-islands"
+            }
+        },
+        "MQ": {
+            "iso_alpha2": "MQ",
+            "name": "Martinique",
+            "continent": "NA",
+            "advisory": {
+                "score": 4,
+                "sources_active": 1,
+                "message": "Martinique has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Martinique.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/martinique"
+            }
+        },
+        "MR": {
+            "iso_alpha2": "MR",
+            "name": "Mauritania",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.79999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Mauritania has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Mauritania.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/mauritania"
+            }
+        },
+        "MS": {
+            "iso_alpha2": "MS",
+            "name": "Montserrat",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Montserrat has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Montserrat.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/montserrat"
+            }
+        },
+        "MT": {
+            "iso_alpha2": "MT",
+            "name": "Malta",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Malta has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Malta.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/malta"
+            }
+        },
+        "MU": {
+            "iso_alpha2": "MU",
+            "name": "Mauritius",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Mauritius has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Mauritius.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/mauritius"
+            }
+        },
+        "MV": {
+            "iso_alpha2": "MV",
+            "name": "Maldives",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 7,
+                "message": "Maldives has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Maldives.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/maldives"
+            }
+        },
+        "MW": {
+            "iso_alpha2": "MW",
+            "name": "Malawi",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Malawi has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Malawi.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/malawi"
+            }
+        },
+        "MX": {
+            "iso_alpha2": "MX",
+            "name": "Mexico",
+            "continent": "NA",
+            "advisory": {
+                "score": 3.600000000000000088817841970012523233890533447265625,
+                "sources_active": 7,
+                "message": "Mexico has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Mexico.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/mexico"
+            }
+        },
+        "MY": {
+            "iso_alpha2": "MY",
+            "name": "Malaysia",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Malaysia has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Malaysia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/malaysia"
+            }
+        },
+        "MZ": {
+            "iso_alpha2": "MZ",
+            "name": "Mozambique",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 6,
+                "message": "Mozambique has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Mozambique.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/mozambique"
+            }
+        },
+        "NA": {
+            "iso_alpha2": "NA",
+            "name": "Namibia",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Namibia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Namibia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/namibia"
+            }
+        },
+        "NC": {
+            "iso_alpha2": "NC",
+            "name": "New Caledonia",
+            "continent": "OC",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "New Caledonia has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling New Caledonia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/new-caledonia"
+            }
+        },
+        "NE": {
+            "iso_alpha2": "NE",
+            "name": "Niger",
+            "continent": "AF",
+            "advisory": {
+                "score": 4.70000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Niger has a current risk level of 4.7 (out of 5). We advise: It is not safe to travel Niger.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/niger"
+            }
+        },
+        "NF": {
+            "iso_alpha2": "NF",
+            "name": "Norfolk Island",
+            "continent": "OC",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Norfolk Island has a current risk level of 0 (out of 5). We advise: Travelling Norfolk Island is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/norfolk-island"
+            }
+        },
+        "NG": {
+            "iso_alpha2": "NG",
+            "name": "Nigeria",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.79999999999999982236431605997495353221893310546875,
+                "sources_active": 8,
+                "message": "Nigeria has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Nigeria.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/nigeria"
+            }
+        },
+        "NI": {
+            "iso_alpha2": "NI",
+            "name": "Nicaragua",
+            "continent": "NA",
+            "advisory": {
+                "score": 3.600000000000000088817841970012523233890533447265625,
+                "sources_active": 5,
+                "message": "Nicaragua has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Nicaragua.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/nicaragua"
+            }
+        },
+        "NL": {
+            "iso_alpha2": "NL",
+            "name": "Netherlands",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 7,
+                "message": "Netherlands has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Netherlands.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/netherlands"
+            }
+        },
+        "NO": {
+            "iso_alpha2": "NO",
+            "name": "Norway",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Norway has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Norway.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/norway"
+            }
+        },
+        "NP": {
+            "iso_alpha2": "NP",
+            "name": "Nepal",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Nepal has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Nepal.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/nepal"
+            }
+        },
+        "NU": {
+            "iso_alpha2": "NU",
+            "name": "Niue",
+            "continent": "OC",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Niue has a current risk level of 0 (out of 5). We advise: Travelling Niue is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/niue"
+            }
+        },
+        "NZ": {
+            "iso_alpha2": "NZ",
+            "name": "New Zealand",
+            "continent": "OC",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "New Zealand has a current risk level of 3 (out of 5). We advise: Use some caution when travelling New Zealand.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/new-zealand"
+            }
+        },
+        "OM": {
+            "iso_alpha2": "OM",
+            "name": "Oman",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Oman has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Oman.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/oman"
+            }
+        },
+        "PA": {
+            "iso_alpha2": "PA",
+            "name": "Panama",
+            "continent": "NA",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Panama has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Panama.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/panama"
+            }
+        },
+        "PE": {
+            "iso_alpha2": "PE",
+            "name": "Peru",
+            "continent": "SA",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Peru has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Peru.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/peru"
+            }
+        },
+        "PF": {
+            "iso_alpha2": "PF",
+            "name": "French Polynesia",
+            "continent": "OC",
+            "advisory": {
+                "score": 3,
+                "sources_active": 2,
+                "message": "French Polynesia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling French Polynesia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/french-polynesia"
+            }
+        },
+        "PG": {
+            "iso_alpha2": "PG",
+            "name": "Papua New Guinea",
+            "continent": "OC",
+            "advisory": {
+                "score": 3.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Papua New Guinea has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Papua New Guinea.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/papua-new-guinea"
+            }
+        },
+        "PH": {
+            "iso_alpha2": "PH",
+            "name": "Philippines",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.100000000000000088817841970012523233890533447265625,
+                "sources_active": 9,
+                "message": "Philippines has a current risk level of 3.1 (out of 5). We advise: Use some caution when travelling Philippines.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/philippines"
+            }
+        },
+        "PK": {
+            "iso_alpha2": "PK",
+            "name": "Pakistan",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.79999999999999982236431605997495353221893310546875,
+                "sources_active": 8,
+                "message": "Pakistan has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Pakistan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/pakistan"
+            }
+        },
+        "PL": {
+            "iso_alpha2": "PL",
+            "name": "Poland",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Poland has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Poland.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/poland"
+            }
+        },
+        "PM": {
+            "iso_alpha2": "PM",
+            "name": "Saint Pierre and Miquelon",
+            "continent": "NA",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Saint Pierre and Miquelon has a current risk level of 0 (out of 5). We advise: Travelling Saint Pierre and Miquelon is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/saint-pierre-and-miquelon"
+            }
+        },
+        "PN": {
+            "iso_alpha2": "PN",
+            "name": "Pitcairn",
+            "continent": "OC",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Pitcairn has a current risk level of 0 (out of 5). We advise: Travelling Pitcairn is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/pitcairn"
+            }
+        },
+        "PR": {
+            "iso_alpha2": "PR",
+            "name": "Puerto Rico",
+            "continent": "NA",
+            "advisory": {
+                "score": 4,
+                "sources_active": 1,
+                "message": "Puerto Rico has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Puerto Rico.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/puerto-rico"
+            }
+        },
+        "PS": {
+            "iso_alpha2": "PS",
+            "name": "Palestinian Territory",
+            "continent": "AS",
+            "advisory": {
+                "score": 4,
+                "sources_active": 3,
+                "message": "Palestinian Territory has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Palestinian Territory.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/palestinian-territory"
+            }
+        },
+        "PT": {
+            "iso_alpha2": "PT",
+            "name": "Portugal",
+            "continent": "EU",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "Portugal has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Portugal.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/portugal"
+            }
+        },
+        "PW": {
+            "iso_alpha2": "PW",
+            "name": "Palau",
+            "continent": "OC",
+            "advisory": {
+                "score": 3,
+                "sources_active": 2,
+                "message": "Palau has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Palau.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/palau"
+            }
+        },
+        "PY": {
+            "iso_alpha2": "PY",
+            "name": "Paraguay",
+            "continent": "SA",
+            "advisory": {
+                "score": 3,
+                "sources_active": 5,
+                "message": "Paraguay has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Paraguay.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/paraguay"
+            }
+        },
+        "QA": {
+            "iso_alpha2": "QA",
+            "name": "Qatar",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Qatar has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Qatar.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/qatar"
+            }
+        },
+        "RE": {
+            "iso_alpha2": "RE",
+            "name": "Reunion",
+            "continent": "AF",
+            "advisory": {
+                "score": 4,
+                "sources_active": 1,
+                "message": "Reunion has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Reunion.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/reunion"
+            }
+        },
+        "RO": {
+            "iso_alpha2": "RO",
+            "name": "Romania",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Romania has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Romania.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/romania"
+            }
+        },
+        "RS": {
+            "iso_alpha2": "RS",
+            "name": "Serbia",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 5,
+                "message": "Serbia has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Serbia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/serbia"
+            }
+        },
+        "RU": {
+            "iso_alpha2": "RU",
+            "name": "Russia",
+            "continent": "EU",
+            "advisory": {
+                "score": 4.4000000000000003552713678800500929355621337890625,
+                "sources_active": 8,
+                "message": "Russia has a current risk level of 4.4 (out of 5). We advise: Please reconsider your need to travel to Russia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/russia"
+            }
+        },
+        "RW": {
+            "iso_alpha2": "RW",
+            "name": "Rwanda",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Rwanda has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Rwanda.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/rwanda"
+            }
+        },
+        "SA": {
+            "iso_alpha2": "SA",
+            "name": "Saudi Arabia",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Saudi Arabia has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Saudi Arabia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/saudi-arabia"
+            }
+        },
+        "SB": {
+            "iso_alpha2": "SB",
+            "name": "Solomon Islands",
+            "continent": "OC",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 3,
+                "message": "Solomon Islands has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Solomon Islands.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/solomon-islands"
+            }
+        },
+        "SC": {
+            "iso_alpha2": "SC",
+            "name": "Seychelles",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Seychelles has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Seychelles.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/seychelles"
+            }
+        },
+        "SD": {
+            "iso_alpha2": "SD",
+            "name": "Sudan",
+            "continent": "AF",
+            "advisory": {
+                "score": 4.70000000000000017763568394002504646778106689453125,
+                "sources_active": 9,
+                "message": "Sudan has a current risk level of 4.7 (out of 5). We advise: It is not safe to travel Sudan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/sudan"
+            }
+        },
+        "SE": {
+            "iso_alpha2": "SE",
+            "name": "Sweden",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 6,
+                "message": "Sweden has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Sweden.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/sweden"
+            }
+        },
+        "SG": {
+            "iso_alpha2": "SG",
+            "name": "Singapore",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Singapore has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Singapore.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/singapore"
+            }
+        },
+        "SH": {
+            "iso_alpha2": "SH",
+            "name": "Saint Helena",
+            "continent": "AF",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Saint Helena has a current risk level of 0 (out of 5). We advise: Travelling Saint Helena is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/saint-helena"
+            }
+        },
+        "SI": {
+            "iso_alpha2": "SI",
+            "name": "Slovenia",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Slovenia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Slovenia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/slovenia"
+            }
+        },
+        "SJ": {
+            "iso_alpha2": "SJ",
+            "name": "Svalbard and Jan Mayen",
+            "continent": "EU",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Svalbard and Jan Mayen has a current risk level of 0 (out of 5). We advise: Travelling Svalbard and Jan Mayen is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/svalbard-and-jan-mayen"
+            }
+        },
+        "SK": {
+            "iso_alpha2": "SK",
+            "name": "Slovakia",
+            "continent": "EU",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Slovakia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Slovakia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/slovakia"
+            }
+        },
+        "SL": {
+            "iso_alpha2": "SL",
+            "name": "Sierra Leone",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 4,
+                "message": "Sierra Leone has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Sierra Leone.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/sierra-leone"
+            }
+        },
+        "SM": {
+            "iso_alpha2": "SM",
+            "name": "San Marino",
+            "continent": "EU",
+            "advisory": {
+                "score": 5,
+                "sources_active": 1,
+                "message": "San Marino has a current risk level of 5 (out of 5). We advise: It is not safe to travel San Marino.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/san-marino"
+            }
+        },
+        "SN": {
+            "iso_alpha2": "SN",
+            "name": "Senegal",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.600000000000000088817841970012523233890533447265625,
+                "sources_active": 5,
+                "message": "Senegal has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Senegal.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/senegal"
+            }
+        },
+        "SO": {
+            "iso_alpha2": "SO",
+            "name": "Somalia",
+            "continent": "AF",
+            "advisory": {
+                "score": 5,
+                "sources_active": 7,
+                "message": "Somalia has a current risk level of 5 (out of 5). We advise: It is not safe to travel Somalia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/somalia"
+            }
+        },
+        "SR": {
+            "iso_alpha2": "SR",
+            "name": "Suriname",
+            "continent": "SA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Suriname has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Suriname.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/suriname"
+            }
+        },
+        "SS": {
+            "iso_alpha2": "SS",
+            "name": "South Sudan",
+            "continent": "AF",
+            "advisory": {
+                "score": 5,
+                "sources_active": 4,
+                "message": "South Sudan has a current risk level of 5 (out of 5). We advise: It is not safe to travel South Sudan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/south-sudan"
+            }
+        },
+        "ST": {
+            "iso_alpha2": "ST",
+            "name": "Sao Tome and Principe",
+            "continent": "AF",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Sao Tome and Principe has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Sao Tome and Principe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/sao-tome-and-principe"
+            }
+        },
+        "SV": {
+            "iso_alpha2": "SV",
+            "name": "El Salvador",
+            "continent": "NA",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 6,
+                "message": "El Salvador has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling El Salvador.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/el-salvador"
+            }
+        },
+        "SY": {
+            "iso_alpha2": "SY",
+            "name": "Syria",
+            "continent": "AS",
+            "advisory": {
+                "score": 5,
+                "sources_active": 8,
+                "message": "Syria has a current risk level of 5 (out of 5). We advise: It is not safe to travel Syria.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/syria"
+            }
+        },
+        "SZ": {
+            "iso_alpha2": "SZ",
+            "name": "Swaziland",
+            "continent": "AF",
+            "advisory": {
+                "score": 2.70000000000000017763568394002504646778106689453125,
+                "sources_active": 3,
+                "message": "Swaziland has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Swaziland.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/swaziland"
+            }
+        },
+        "TC": {
+            "iso_alpha2": "TC",
+            "name": "Turks and Caicos Islands",
+            "continent": "NA",
+            "advisory": {
+                "score": 3,
+                "sources_active": 2,
+                "message": "Turks and Caicos Islands has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Turks and Caicos Islands.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/turks-and-caicos-islands"
+            }
+        },
+        "TD": {
+            "iso_alpha2": "TD",
+            "name": "Chad",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.70000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Chad has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Chad.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/chad"
+            }
+        },
+        "TG": {
+            "iso_alpha2": "TG",
+            "name": "Togo",
+            "continent": "AF",
+            "advisory": {
+                "score": 2.29999999999999982236431605997495353221893310546875,
+                "sources_active": 3,
+                "message": "Togo has a current risk level of 2.3 (out of 5). We advise: Travelling Togo is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/togo"
+            }
+        },
+        "TH": {
+            "iso_alpha2": "TH",
+            "name": "Thailand",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.70000000000000017763568394002504646778106689453125,
+                "sources_active": 7,
+                "message": "Thailand has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Thailand.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/thailand"
+            }
+        },
+        "TJ": {
+            "iso_alpha2": "TJ",
+            "name": "Tajikistan",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 6,
+                "message": "Tajikistan has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Tajikistan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/tajikistan"
+            }
+        },
+        "TL": {
+            "iso_alpha2": "TL",
+            "name": "East Timor",
+            "continent": "OC",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 5,
+                "message": "East Timor has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling East Timor.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/east-timor"
+            }
+        },
+        "TM": {
+            "iso_alpha2": "TM",
+            "name": "Turkmenistan",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.79999999999999982236431605997495353221893310546875,
+                "sources_active": 5,
+                "message": "Turkmenistan has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Turkmenistan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/turkmenistan"
+            }
+        },
+        "TN": {
+            "iso_alpha2": "TN",
+            "name": "Tunisia",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 8,
+                "message": "Tunisia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Tunisia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/tunisia"
+            }
+        },
+        "TO": {
+            "iso_alpha2": "TO",
+            "name": "Tonga",
+            "continent": "OC",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Tonga has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Tonga.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/tonga"
+            }
+        },
+        "TR": {
+            "iso_alpha2": "TR",
+            "name": "Turkey",
+            "continent": "AS",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 8,
+                "message": "Turkey has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Turkey.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/turkey"
+            }
+        },
+        "TT": {
+            "iso_alpha2": "TT",
+            "name": "Trinidad and Tobago",
+            "continent": "NA",
+            "advisory": {
+                "score": 4,
+                "sources_active": 4,
+                "message": "Trinidad and Tobago has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Trinidad and Tobago.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/trinidad-and-tobago"
+            }
+        },
+        "TV": {
+            "iso_alpha2": "TV",
+            "name": "Tuvalu",
+            "continent": "OC",
+            "advisory": {
+                "score": 1,
+                "sources_active": 1,
+                "message": "Tuvalu has a current risk level of 1 (out of 5). We advise: Travelling Tuvalu is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/tuvalu"
+            }
+        },
+        "TW": {
+            "iso_alpha2": "TW",
+            "name": "Taiwan",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.70000000000000017763568394002504646778106689453125,
+                "sources_active": 3,
+                "message": "Taiwan has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Taiwan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/taiwan"
+            }
+        },
+        "TZ": {
+            "iso_alpha2": "TZ",
+            "name": "Tanzania",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 6,
+                "message": "Tanzania has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Tanzania.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/tanzania"
+            }
+        },
+        "UA": {
+            "iso_alpha2": "UA",
+            "name": "Ukraine",
+            "continent": "EU",
+            "advisory": {
+                "score": 4.70000000000000017763568394002504646778106689453125,
+                "sources_active": 9,
+                "message": "Ukraine has a current risk level of 4.7 (out of 5). We advise: It is not safe to travel Ukraine.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/ukraine"
+            }
+        },
+        "UG": {
+            "iso_alpha2": "UG",
+            "name": "Uganda",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 6,
+                "message": "Uganda has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Uganda.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/uganda"
+            }
+        },
+        "US": {
+            "iso_alpha2": "US",
+            "name": "United States",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.70000000000000017763568394002504646778106689453125,
+                "sources_active": 3,
+                "message": "United States has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling United States.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/united-states"
+            }
+        },
+        "UY": {
+            "iso_alpha2": "UY",
+            "name": "Uruguay",
+            "continent": "SA",
+            "advisory": {
+                "score": 3.29999999999999982236431605997495353221893310546875,
+                "sources_active": 4,
+                "message": "Uruguay has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Uruguay.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/uruguay"
+            }
+        },
+        "UZ": {
+            "iso_alpha2": "UZ",
+            "name": "Uzbekistan",
+            "continent": "AS",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Uzbekistan has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Uzbekistan.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/uzbekistan"
+            }
+        },
+        "VA": {
+            "iso_alpha2": "VA",
+            "name": "Vatican",
+            "continent": "EU",
+            "advisory": {
+                "score": 5,
+                "sources_active": 1,
+                "message": "Vatican has a current risk level of 5 (out of 5). We advise: It is not safe to travel Vatican.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/vatican"
+            }
+        },
+        "VC": {
+            "iso_alpha2": "VC",
+            "name": "Saint Vincent and the Grenadines",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "Saint Vincent and the Grenadines has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Saint Vincent and the Grenadines.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/saint-vincent-and-the-grenadines"
+            }
+        },
+        "VE": {
+            "iso_alpha2": "VE",
+            "name": "Venezuela",
+            "continent": "SA",
+            "advisory": {
+                "score": 4.0999999999999996447286321199499070644378662109375,
+                "sources_active": 8,
+                "message": "Venezuela has a current risk level of 4.1 (out of 5). We advise: Please reconsider your need to travel to Venezuela.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/venezuela"
+            }
+        },
+        "VG": {
+            "iso_alpha2": "VG",
+            "name": "British Virgin Islands",
+            "continent": "NA",
+            "advisory": {
+                "score": 2.5,
+                "sources_active": 2,
+                "message": "British Virgin Islands has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling British Virgin Islands.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/british-virgin-islands"
+            }
+        },
+        "VI": {
+            "iso_alpha2": "VI",
+            "name": "U.S. Virgin Islands",
+            "continent": "NA",
+            "advisory": {
+                "score": 4,
+                "sources_active": 1,
+                "message": "U.S. Virgin Islands has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to U.S. Virgin Islands.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/us-virgin-islands"
+            }
+        },
+        "VN": {
+            "iso_alpha2": "VN",
+            "name": "Vietnam",
+            "continent": "AS",
+            "advisory": {
+                "score": 2.70000000000000017763568394002504646778106689453125,
+                "sources_active": 6,
+                "message": "Vietnam has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Vietnam.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/vietnam"
+            }
+        },
+        "VU": {
+            "iso_alpha2": "VU",
+            "name": "Vanuatu",
+            "continent": "OC",
+            "advisory": {
+                "score": 3,
+                "sources_active": 2,
+                "message": "Vanuatu has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Vanuatu.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/vanuatu"
+            }
+        },
+        "WF": {
+            "iso_alpha2": "WF",
+            "name": "Wallis and Futuna",
+            "continent": "OC",
+            "advisory": {
+                "score": 0,
+                "sources_active": 0,
+                "message": "Wallis and Futuna has a current risk level of 0 (out of 5). We advise: Travelling Wallis and Futuna is (relatively) safe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/wallis-and-futuna"
+            }
+        },
+        "WS": {
+            "iso_alpha2": "WS",
+            "name": "Samoa",
+            "continent": "OC",
+            "advisory": {
+                "score": 3,
+                "sources_active": 3,
+                "message": "Samoa has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Samoa.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/samoa"
+            }
+        },
+        "XK": {
+            "iso_alpha2": "XK",
+            "name": "Kosovo",
+            "continent": "EU",
+            "advisory": {
+                "score": 3.600000000000000088817841970012523233890533447265625,
+                "sources_active": 5,
+                "message": "Kosovo has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Kosovo.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/kosovo"
+            }
+        },
+        "YE": {
+            "iso_alpha2": "YE",
+            "name": "Yemen",
+            "continent": "AS",
+            "advisory": {
+                "score": 5,
+                "sources_active": 8,
+                "message": "Yemen has a current risk level of 5 (out of 5). We advise: It is not safe to travel Yemen.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/yemen"
+            }
+        },
+        "YT": {
+            "iso_alpha2": "YT",
+            "name": "Mayotte",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.5,
+                "sources_active": 2,
+                "message": "Mayotte has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Mayotte.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/mayotte"
+            }
+        },
+        "ZA": {
+            "iso_alpha2": "ZA",
+            "name": "South Africa",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.399999999999999911182158029987476766109466552734375,
+                "sources_active": 7,
+                "message": "South Africa has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling South Africa.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/south-africa"
+            }
+        },
+        "ZM": {
+            "iso_alpha2": "ZM",
+            "name": "Zambia",
+            "continent": "AF",
+            "advisory": {
+                "score": 3,
+                "sources_active": 4,
+                "message": "Zambia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Zambia.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/zambia"
+            }
+        },
+        "ZW": {
+            "iso_alpha2": "ZW",
+            "name": "Zimbabwe",
+            "continent": "AF",
+            "advisory": {
+                "score": 3.20000000000000017763568394002504646778106689453125,
+                "sources_active": 5,
+                "message": "Zimbabwe has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Zimbabwe.",
+                "updated": "2024-01-20 08:31:42",
+                "source": "https:\/\/www.travel-advisory.info\/zimbabwe"
+            }
+        }
+    }
+}
