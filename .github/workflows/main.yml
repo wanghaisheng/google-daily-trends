@@ -15,15 +15,15 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Install Google Chrome (<<parameters.channel>>)
-        run: |
-          echo "Installing Chrome (<<parameters.channel>>) v<<parameters.version>>"
-          wget -O /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb "http://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-<<parameters.channel>>/google-chrome-<<parameters.channel>>_<<parameters.version>>-1_amd64.deb" && \
-          dpkg -i /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb ; \
-          apt-get install -f -y && \
-          rm -f /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb
-          echo "Location of Google Chrome Installation: `which google-chrome-<<parameters.channel>>`"
-          echo "Google Chrome Version: `google-chrome-<<parameters.channel>> --version`"
+      # - name: Install Google Chrome (<<parameters.channel>>)
+      #   run: |
+      #     echo "Installing Chrome (<<parameters.channel>>) v<<parameters.version>>"
+      #     wget -O /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb "http://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-<<parameters.channel>>/google-chrome-<<parameters.channel>>_<<parameters.version>>-1_amd64.deb" && \
+      #     dpkg -i /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb ; \
+      #     apt-get install -f -y && \
+      #     rm -f /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb
+      #     echo "Location of Google Chrome Installation: `which google-chrome-<<parameters.channel>>`"
+      #     echo "Google Chrome Version: `google-chrome-<<parameters.channel>> --version`"
       - name: Install dependencies
         run: |
           sudo apt-get update      
