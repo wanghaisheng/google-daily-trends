@@ -12,6 +12,7 @@ import json
 
 from thread_worker import LimitWorker, Worker
 
+geo = os.getenv("geo")
 
 
 geo='US'
@@ -134,20 +135,21 @@ def getdata(data):
         tab.close()
 co = ChromiumOptions().auto_port()
 so = SessionOptions()
-co.set_proxy('socks5://localhost:1080')
+# co.set_proxy('socks5://localhost:1080')
 
-co.set_browser_path(r"C:\Users\Administrator\AppData\Local\Google\Chrome\Bin\chrome.exe")
+# co.set_browser_path(r"C:\Users\Administrator\AppData\Local\Google\Chrome\Bin\chrome.exe")
 
 # browser = SessionPage(so)
 browser = WebPage(chromium_options=co, session_or_options=so)
 outfile=Recorder(f'ghistrends.csv',cache_size=20)
 errorile=Recorder(f'eror.csv',cache_size=1)
-w = Worker(getdata, consumer_count=3, block=True)
-
+w = Worker(getdata, consumer_count=5, block=True)
+if geo is not None:
+    geos=[geo]
 for geo in geos:
     # url=f'https://trends.google.com.hk/trends/trendingsearches/realtime?geo={geo}&hl=zh-HK&category={c}'
     url=f'https://trends.google.com/trends/trendingsearches/daily?geo={geo}'
-    url=f'https://trends.google.com.hk/trends/trendingsearches/daily?geo={geo}'
+    url=f'https://trends.google.com/trends/trendingsearches/daily?geo={geo}'
 
     data={}
     data["browser"]=browser
