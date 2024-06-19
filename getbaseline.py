@@ -141,7 +141,9 @@ so = SessionOptions()
 # co.set_browser_path(r"C:\Users\Administrator\AppData\Local\Google\Chrome\Bin\chrome.exe")
 
 # browser = SessionPage(so)
-browser = WebPage(chromium_options=co, session_or_options=so)
+# browser = WebPage(chromium_options=co, session_or_options=so)
+from cfbypss import CloudflareBypass 
+browser=CloudflareBypass()
 outfile=Recorder(f'ghistrends.csv',cache_size=20)
 errorile=Recorder(f'eror.csv',cache_size=1)
 w = Worker(getdata, consumer_count=5, block=True)
