@@ -143,7 +143,7 @@ so = SessionOptions()
 # browser = SessionPage(so)
 # browser = WebPage(chromium_options=co, session_or_options=so)
 from cfbypss import CloudflareBypass 
-browser=CloudflareBypass()
+browser=CloudflareBypass(browser_path=None)
 outfile=Recorder(f'ghistrends.csv',cache_size=20)
 errorile=Recorder(f'eror.csv',cache_size=1)
 w = Worker(getdata, consumer_count=5, block=True)
