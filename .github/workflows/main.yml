@@ -2,29 +2,10 @@ name: get daily trend baseline data
 'on':
   workflow_dispatch:
     inputs:
-      URL:
-        description: YouTube Channel URL
+      geo:
+        description: geo
         type: enviroment
-        required: true
-      downloadVideo:
-        description: if download video file
-        type: boolean
-        required: true
-      downloadSubtitles:
-        description: if download video subtitles
-        type: boolean
-        required: true
-      downloadComments:
-        description: if download video comments
-        type: boolean
-        required: true
-      downloadVideoHeight:
-        description: best or low
-        type: choice
-        required: true
-        options:
-          - 480
-          - 720
+        required: false
 jobs:
   build-ubuntu:
     runs-on: ubuntu-latest
@@ -34,24 +15,26 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Download ffmpeg for Linux
-        run: |
-          sudo apt update
-          sudo apt install ffmpeg
+      - run:
+          name: Install Google Chrome (<<parameters.channel>>)
+          command: |
+            echo "Installing Chrome (<<parameters.channel>>) v<<parameters.version>>"
+            wget -O /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb "http://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-<<parameters.channel>>/google-chrome-<<parameters.channel>>_<<parameters.version>>-1_amd64.deb" && \
+            dpkg -i /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb ; \
+            apt-get install -f -y && \
+            rm -f /usr/src/google-chrome-<<parameters.channel>>_<<parameters.version>>_amd64.deb
+            echo "Location of Google Chrome Installation: `which google-chrome-<<parameters.channel>>`"
+            echo "Google Chrome Version: `google-chrome-<<parameters.channel>> --version`"
       - name: Install dependencies
         run: |
           sudo apt-get update      
           python -m pip install --upgrade pip
-          pip install -r dev.txt
+          pip install -r requirements.txt
       - name: run demo
         run: |
-          python  downloadVideos.py 
+          python  getbaseline.py
         env:
-          URL: '${{ github.event.inputs.URL }}'
-          downloadVideo: '${{ github.event.inputs.downloadVideo }}'
-          downloadVideoHeight: '${{ github.event.inputs.downloadVideoHeight }}'
-          downloadComments: '${{ github.event.inputs.downloadComments }}'
-          downloadSubtitles: '${{ github.event.inputs.downloadSubtitles }}'
+          geo: '${{ github.event.inputs.geo }}'
       - name: Release
         uses: marvinpinto/action-automatic-releases@latest
         with:
@@ -60,4 +43,4 @@ jobs:
           prerelease: false
           title: '${{ github.run_id }}'
           files: |
-            output/*             
+            ./*             
