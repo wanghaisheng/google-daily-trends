@@ -3,3 +3,7 @@ svgpathtools
 DataRecorder
 pandas
 thread_worker
+pytrends
+pandas
+google-generativeai
+python-dotenv
